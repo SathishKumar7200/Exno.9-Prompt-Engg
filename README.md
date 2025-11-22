@@ -31,8 +31,77 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
+# Input and Output :
+
+
+## video 1:
+
+
+## prompt :
+
+```
+
+
+“Create a dramatic cinematic video of a large circular stadium-like building during a thunderstorm. Show dark storm clouds,
+ lightning strikes illuminating the sky, and a moody teal-green color tone. Include slow camera movement—starting with a wide 
+ shot of the building’s unique lattice structure and lush greenery in the foreground. Add rain ambience, dramatic lighting flashes,
+ and a slightly ominous atmosphere. The scene should feel intense, high-contrast, and visually powerful, like a movie trailer shot.”
+
+```
+
+
+
+https://github.com/user-attachments/assets/94ce0e85-f999-442a-9edb-0c3e8c5bb49f
+
+
+## video 2:
+
+
+## prompt :
+
+
+```
+
+"A young man gracefully skating across the sky as if it were a frozen glass surface. Soft white clouds swirl beneath him,
+ and the sunlight creates shimmering reflections with every movement. The man performs smooth, fluid skating motions, 
+leaving behind glowing trails of light. The camera follows him in a cinematic wide-angle shot, slowly orbiting as he glides
+ through the vibrant blue sky. The atmosphere feels magical and surreal, with gentle wind effects and floating particles 
+adding depth. generate a video based on the prompt"
+
+```
+
+
+
+
+
+https://github.com/user-attachments/assets/d8b815c1-7b5d-44a3-9dc5-458a02b014f7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Result: The Prompt of the above task executed successfully
+
+
+
+
+
+
+
+
+
+
 
 
 
